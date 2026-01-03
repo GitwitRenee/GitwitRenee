@@ -15,13 +15,13 @@
 ---
 
 ### 🧐 About Me
-I am a **Mental Health Associate** and student pursuing my AA in **Counseling and Applied Psychological Sciences**. I use my background in the "Human Experience" to build applications that are not just functional, but emotionally intelligent and aesthetically calming.
+I am a **Mental Health Associate** and student pursuing studies in **Counseling and Applied Psychological Sciences**. I use my background in the "Human Experience" to build applications that are not just functional, but emotionally intelligent and aesthetically calming.
 
 - 🔭 **Currently working on:** - **Essence:** An AI-powered app that converts journal entries into visual art based on sentiment analysis.
     - **Notion Widgets:** Developing high-fidelity, gamified productivity tools (Sand Clocks, Puzzle Trackers).
 - 🌱 **Learning:** Python backend logic & Generative AI integration (Gemini/OpenAI).
 - 🎨 **Design Philosophy:** Trauma-informed design, calming palettes, and gamification.
-- ⚡ **Fun Fact:** I analyze uncredited collaborators in music production to understand the hidden teams behind art.
+- ⚡ **Fun Fact:** I really have a passion for a better world and technology geared towards unity and acceptance. If I can help one person, I'm okay with that. 
 
 ---
 
